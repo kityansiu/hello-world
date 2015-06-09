@@ -1,6 +1,5 @@
 let main () =
-  print_string "Hello OCaml World!";
-  print_newline ();
+  print_string "Hello OCaml World!\n";
 ;;
 
 main();;
